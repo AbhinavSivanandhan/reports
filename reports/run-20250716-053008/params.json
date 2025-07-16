@@ -1,0 +1,12 @@
+{
+  "folder": "test-project8",
+  "features": {
+    "data": "sales_figures8",
+    "path": "https://raw.githubusercontent.com/your-username/your-repo/main/sales.csv"
+  },
+  "targets": {
+    "data": "profit_margin8",
+    "path": "https://raw.githubusercontent.com/your-username/your-repo/main/profit.csv"
+  },
+  "models": "linear_regression"
+}
