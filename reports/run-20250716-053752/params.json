@@ -1,0 +1,12 @@
+{
+  "folder": "default-output",
+  "features": {
+    "data": "dummy8-user-demographics",
+    "path": "https://example.com/data/demographics.csv"
+  },
+  "targets": {
+    "data": "purchase-behavior",
+    "path": "https://example.com/data/purchases.csv"
+  },
+  "models": "random-forest"
+}
