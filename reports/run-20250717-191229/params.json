@@ -1,0 +1,12 @@
+{
+  "folder": "5default-output",
+  "features": {
+    "data": "5user-demographics",
+    "path": "5https://example.com/data/demographics.csv"
+  },
+  "targets": {
+    "data": "5purchase-behavior",
+    "path": "5https://example.com/data/purchases.csv"
+  },
+  "models": "5random-forest"
+}
