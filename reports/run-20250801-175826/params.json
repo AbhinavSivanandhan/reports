@@ -1,0 +1,15 @@
+{
+  "folder": "naics6-bees-counties",
+  "features": {
+    "data": "industries",
+    "common": "Fips22",
+    "path": "https://raw.githubusercontent.com/ModelEarth/community-timelines/main/training/naics6/US/counties/2020/US-ME-training-naics6-counties-2020.csv",
+    "dcid": "2industry"
+  },
+  "targets": {
+    "data": "bees",
+    "path": "https://raw.githubusercontent.com/ModelEarth/bee-data/main/targets/bees-targets-top-20-percent.csv",
+    "dcid": "2bees"
+  },
+  "models": "xgboost"
+}
